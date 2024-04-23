@@ -1,5 +1,5 @@
 /*
- * Pensum - Your office in a pocket.
+ * Pensum - Your office in your pocket.
  * Copyright (C) Marcus Fihlon and the individual contributors to Pensum.
  *
  * This program is free software: you can redistribute it and/or modify
@@ -36,7 +36,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @SpringBootApplication
 @EnableScheduling
 @Push
-@PageTitle("Pensum – Your office in a pocket")
+@PageTitle("Pensum – Your office in your pocket")
 @PWA(name = "Pensum", shortName = "Pensum")
 @Theme("pensum")
 @SuppressWarnings({"FinalClass", "HideUtilityClassConstructor"})

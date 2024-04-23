@@ -8,7 +8,7 @@
     <name>Pensum</name>
     <version>1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <description>Your office in a pocket.</description>
+    <description>Your office in your pocket.</description>
     <inceptionYear>2024</inceptionYear>
 
     <licenses>

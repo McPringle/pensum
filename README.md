@@ -2,7 +2,7 @@
 
 [![All Tests](https://github.com/McPringle/pensum/actions/workflows/all-tests.yml/badge.svg)](https://github.com/McPringle/pensum/actions/workflows/all-tests.yml)
 
-**Your office in a pocket.**
+**Your office in your pocket.**
 
 ## Features
 

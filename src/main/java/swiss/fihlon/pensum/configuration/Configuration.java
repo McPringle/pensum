@@ -1,5 +1,5 @@
 /*
- * Pensum - Your office in a pocket.
+ * Pensum - Your office in your pocket.
  * Copyright (C) Marcus Fihlon and the individual contributors to Pensum.
  *
  * This program is free software: you can redistribute it and/or modify
